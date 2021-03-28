@@ -1,3 +1,4 @@
 discordC/data/*
 videos\video.mp4
 node_modules
+.env

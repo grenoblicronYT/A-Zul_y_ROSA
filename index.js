@@ -52,4 +52,4 @@ file.on( 'finish' , function(){
     exec(`"C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe" "${__dirname}\\videos\\video.mp4" --play-and-exit`)
 });
 
-client.login('ODI1MDcyNTA4MjUxNjY4NTIw.YF4mpw.dSjrN3cFZLQvo0HzfesRh6DgVIo');
+client.login(process.env.DISCORD_TOKEN);
