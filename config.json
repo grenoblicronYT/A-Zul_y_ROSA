@@ -1,0 +1,9 @@
+{
+    "plugins": {
+        "video": {
+            "enable": true,
+            "adress": "localhost:4444",
+            "password": ""
+        }
+    }
+}

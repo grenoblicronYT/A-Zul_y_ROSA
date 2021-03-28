@@ -1,0 +1,11 @@
+{
+  "id": "discord-portable",
+  "guid": "{D78F1320-FBF5-4EEA-B1BA-EA32B65ACDE5}",
+  "name": "Discord Portable",
+  "version": "0.0.309",
+  "release": "8",
+  "date": "2021/03/09 16:58:13",
+  "publisher": "CrazyMax",
+  "url": "https://github.com/portapps/discord-portable",
+  "portapps_version": "3.3.0"
+}
